@@ -3,7 +3,8 @@
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
 Console.Write("Введите строки через запятую: ");
-string input = Console.ReadLine();
+string input = Console.ReadLine() ?? string.Empty;
+
 if (string.IsNullOrEmpty(input))
 {
     Console.WriteLine("Введенный массив строк пуст.");
