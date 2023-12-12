@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\bin\Debug\net6.0\KONTR_ITOG.exe
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\bin\Debug\net6.0\KONTR_ITOG.deps.json
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\bin\Debug\net6.0\KONTR_ITOG.runtimeconfig.json
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\bin\Debug\net6.0\KONTR_ITOG.dll
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\bin\Debug\net6.0\KONTR_ITOG.pdb
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.AssemblyInfo.cs
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.dll
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\refint\KONTR_ITOG.dll
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.pdb
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\KONTR_ITOG.genruntimeconfig.cache
+C:\Users\Home\Desktop\KONTR_ITOG\KONTR_ITOG\obj\Debug\net6.0\ref\KONTR_ITOG.dll
