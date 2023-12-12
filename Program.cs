@@ -4,3 +4,8 @@
 
 Console.Write("Введите строки через запятую: ");
 string input = Console.ReadLine();
+if (string.IsNullOrEmpty(input))
+{
+    Console.WriteLine("Введенный массив строк пуст.");
+    return;
+}
