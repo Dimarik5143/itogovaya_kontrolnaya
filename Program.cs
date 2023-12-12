@@ -9,3 +9,11 @@ if (string.IsNullOrEmpty(input))
     Console.WriteLine("Введенный массив строк пуст.");
     return;
 }
+string[] inputArray = input.Split(',');
+
+// Фильтрация массива строк
+string[] resultArray = FilterArray(inputArray);
+
+// Вывод результата
+Console.WriteLine("Результат:");
+PrintArray(resultArray);
